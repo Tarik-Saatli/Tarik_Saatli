@@ -1,6 +1,6 @@
 # Tarik-Saatli
 # 💫 About Me:
-## About Me 👋<br><br>I’m currently working on frontend projects as part of my studies  <br>I’m currently learning **Node.js, Express & MongoDB** to become a full-stack developer  <br>I’m looking to collaborate on **web applications and frontend projects**  <br>I’m looking for help with **backend development and databases**  <br>Ask me about **HTML, CSS, JavaScript, React, or Git**  <br>Fun fact: I enjoy building clean and responsive user interfaces
+## About Me 👋<br><br>I’m currently working on frontend projects as part of my studies  <br>I’m currently learning **Node.js, Express & MongoDB** to become a full-stack developer  <br>I’m looking to collaborate on **web applications and frontend projects**   <br>Ask me about **HTML, CSS, JavaScript, React, or Git**  <br>Fun fact: I enjoy building clean and responsive user interfaces
 
 
 # 💻 Tech Stack:
